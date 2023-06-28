@@ -9,8 +9,8 @@ import MobileMyList from './comp/mobile-my-list'
 
 function App() {
   return (<>
-    {/* <Card /> */}
-    {/* <MyCard /> */}
+    <Card />
+    <MyCard />
 
     {/* <List /> */}
     {/* <MyList /> */}
@@ -19,7 +19,7 @@ function App() {
     {/* <MobileMyCard /> */}
 
     {/* <MobileList /> */}
-    <MobileMyList />
+    {/* <MobileMyList /> */}
   </>)
 }
 

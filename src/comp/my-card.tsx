@@ -34,7 +34,7 @@ const schema = {
       type: "object",
       title: "卡片主题",
       description: "这是一个对象类型",
-      widget: "MyCard3",
+      widget: "MyCard1",
       column: 3,
       properties: {
         input1: {
